@@ -5,7 +5,7 @@ class HelloComponent
 {
     public function sayHello():void
     {
-       echo "Hello";
+       echo "Hello world";
 
     }
 }
